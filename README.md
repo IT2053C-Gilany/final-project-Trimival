@@ -1,6 +1,6 @@
-# 📊 Final Project - Edit me!
+# Analyzing Motorcycle Power Trends
 
-By: Student Name
+By: Brady Jacoby
 
 ---
 
@@ -12,7 +12,7 @@ The final project is a three part project:
 - Notebook (part 2)
 - Presentation (part 3)
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Setup Environment
 
@@ -20,7 +20,7 @@ In the previous assignment, you created a conda environment called `IT2053C`. If
 
 ```bash
 # You must provide your 6+2 username
-python scripts/setup.py --username <your_6+2_username>
+python scripts/setup.py --username jacobyba
 
 # Example:
 python scripts/setup.py --username gilanyym
